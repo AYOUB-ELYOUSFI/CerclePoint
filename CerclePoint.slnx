@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CerclePoint/CerclePoint.vcxproj" Id="aa095a65-3597-46c7-b621-7c0330abeaa2" />
+</Solution>
